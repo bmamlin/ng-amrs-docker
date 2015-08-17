@@ -1,6 +1,6 @@
 FROM node:0.12.7
 
-# BUILLD:
+# BUILD:
 # docker build -t ng-amrs .
 
 # RUN:
